@@ -1,0 +1,6 @@
+@API_Bloodborne_HostAddress = http://localhost:5240
+
+GET {{API_Bloodborne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
